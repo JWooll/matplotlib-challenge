@@ -1,7 +1,7 @@
 # matplotlib-challenge
 Submission for Module 5 challenge
 
-All code included is orginal and based on information provided in class and the folling resources:
+All code included is original and based on information provided in class and the following resources:
 
 duplicate function source: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.duplicated.html
 
